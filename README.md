@@ -36,9 +36,6 @@ This portfolio highlights my personal projects, learning exercises, and research
 Currently seeking opportunities to grow as a Security Analyst and tackle real-world security challenges.
 
 
-![TryHackMe Stats](https://raw.githubusercontent.com/VirusDanny/Dhananjay-Chandrikapure/master/assets/tryhackme-badgggge.png)
-
-
 
 ## 🎯 Objectives
 To build a successful career in cybersecurity by applying my knowledge of security operations, incident analysis, and threat management. I aim to continuously learn, adapt to emerging security challenges, enhance my technical skills, and contribute to securing digital environments. My goal is to work in dynamic security teams, handle real-world incidents, and support organizations in strengthening their security posture — specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
